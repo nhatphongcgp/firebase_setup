@@ -8,8 +8,11 @@ environment:
 dependencies: 
   cupertino_icons: ^1.0.2
   get: 4.6.5
+  cloud_firestore: ^3.4.8
+  rxdart: ^0.27.5
   flutter: 
     sdk: flutter
+    
 
 dev_dependencies: 
   flutter_lints: ^1.0.0
